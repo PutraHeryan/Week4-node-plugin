@@ -18,4 +18,4 @@ Untuk menjalankan project, jalankan perintah berikut di dalam CMD "node Week4.js
 
 ### 4. Hasil Screenshot Codingan
 
-<img width="740" height="464" alt="image" src="https://github.com/user-attachments/assets/8544c6ab-05ab-4d9a-90d3-8c2c8e26676d" />
+<img width="1011" height="633" alt="image" src="https://github.com/user-attachments/assets/2bda9052-42ef-444d-b8ef-e91282ae94e4" />
